@@ -1,0 +1,11 @@
+Dependencies used :
+
+React-router-dom
+Axios
+React-icons
+Tailwind css
+
+
+Api:
+
+Edamam Food recipe API
